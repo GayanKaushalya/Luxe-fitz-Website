@@ -38,29 +38,7 @@ The platform allows users to **browse clothing products, view detailed informati
 * Control product visibility
 * Manage overall store content
 
----
 
-## 📂 Project Structure
-
-Luxe-fitz-Website
-│
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-├── routes/
-├── storage/
-├── tests/
-│
-├── .env.example
-├── .gitignore
-├── artisan
-├── composer.json
-├── package.json
-├── vite.config.js
-└── README.md
 
 ---
 
